@@ -1,6 +1,5 @@
 # iOS achive ipa 파일 분석
 
-
 ## File tree
 ```zsh
 ios-ipa-analyze/
@@ -24,3 +23,12 @@ file_path.suffix in [".png", ".jpg", ".jpeg", ".json", ".plist", ".nib", ".svg",
 ## Todo list
 - 리스트를 뽑아 확인용도 또는 slack으로 전달예정
 
+## License
+- MIT
+
+
+## Author
+|**Lunight**|
+|:--|
+|Github: [@Lunight](https://github.com/LunightLab/python/tree/main/ios-ipa-analyze) <br> Email: [kimkshahaha@gmail.com](kimkshahaha@gmail.com)|
+---

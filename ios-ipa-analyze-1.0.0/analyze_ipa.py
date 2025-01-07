@@ -1,3 +1,14 @@
+# /***********************************************************************
+#  * iOS achive ipa analyze report
+#  * -----------------------
+#  * Project Name: iOS achive ipa 파일을 분석
+#  * Description: ipa 분석정보를 slack으로 보내기위함
+#  * Author: lunight(김경식))
+#  * Date: [2024-01-07]
+#  * Version: 1.0.0
+#  * Notes: -
+# *********************************************************************** */
+
 import os
 import zipfile
 import subprocess
